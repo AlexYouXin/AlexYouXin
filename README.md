@@ -6,7 +6,7 @@ My research focuses on **AI for medical imaging** (CT / MRI): image and video sy
 
 ### Links
 
-- 🏠 Homepage: [alexyouxin.github.io](https://alexyouxin.github.io/)
+- 🏠 Homepage: [xin-you.pages.dev](https://xin-you.pages.dev/)
 - 📄 alphaXiv: [Xin You on alphaXiv](https://www.alphaxiv.org/@xin-you-2)
 - 🎓 Google Scholar: [Xin You](https://scholar.google.com/citations?user=qzW9e80AAAAJ)
 - 🔬 ResearchGate: [Xin-You-19](https://www.researchgate.net/profile/Xin-You-19)
